@@ -1,0 +1,5 @@
+Dayana Mira 39159915
+El esquema que utlizaria es una rama para cada uno, 
+git branch desarrollo
+git branch testing
+git branch despliegue de infraestructura como código
