@@ -1,0 +1,3 @@
+Dayana Mira 39159915
+Agregaria los cambios a la rama con git add y luego el commit con el comentario
+los cambios se encuentran en la linea 37 por ejemplo
